@@ -26,7 +26,7 @@ development job experiences.
 Professional Information
 </h3>
 
-<h4>
+<p>
 
   - Back-end Trainee Developer(December 2024 - March 2025): Worked for the technology
 solutions company ‘Compass UOL’ on the refactoring, optimizing and maintenance of
@@ -48,7 +48,7 @@ messaging, and account security integrated with AWS S3; Also, an integrated bank
 program with a scoring system.
   - Web Developer(August 2023 - September 2023): Created the website for the consulting
 and ESG (Environmental, Social, Governance) firm, Enva.
-</h4>
+</p>
 <br/>
 <br/>
 
