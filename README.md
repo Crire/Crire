@@ -63,6 +63,20 @@ and ESG (Environmental, Social, Governance) firm, Enva.
 
 ## Português
 
+<h3 align="center">
+  Sobre mim  🖐
+</h3>
+
+
+<h4 align="center">
+ Sou Programador e Game Designer com experiência em desenvolvimento de jogos, atuando
+  tanto como professor quanto como desenvolvedor. Além disso, trabalhei no desenvolvimento
+  de back-end de diversas APIs. Atualmente, estou cursando o quinto semestre da graduação
+  em Ciência da Computação e estou em busca de oportunidades profissionais na área de desenvolvimento de jogos.
+</h4>
+<br/>
+<br/>
+
 <p>
 
   - Desenvolvedor back-end trainee(dezembro de 2024 - março de 2025): Trabalhei para a empresa de soluções de tecnologia 'Compass UOL' na refatoração, otimização e manutenção de vários microsserviços usando aplicações com Java Spring Boot RestFul APIs para um sistema jurídico automatizado, onde fornecemos serviços para outra empresa chamada 'VIVO' em uma base terceirizada
