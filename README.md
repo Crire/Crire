@@ -69,10 +69,10 @@ and ESG (Environmental, Social, Governance) firm, Enva.
 
 
 <h4 align="center">
- Sou Programador e Game Designer com experiência em desenvolvimento de jogos, atuando
-  tanto como professor quanto como desenvolvedor. Além disso, trabalhei no desenvolvimento
-  de back-end de diversas APIs. Atualmente, estou cursando o quinto semestre da graduação
-  em Ciência da Computação e estou em busca de oportunidades profissionais na área de desenvolvimento de jogos.
+ Sou um Programador e Game Designer com experiência em desenvolvimento de jogos, e já atuei
+  como professor e como desenvolvedor. Além disso, trabalhei no desenvolvimento
+  de back-end de diversas APIs. Atualmente, estou no 5º período de Ciência da Computação
+  e estou em busca de oportunidades na área de desenvolvimento de jogos.
 </h4>
 <br/>
 <br/>
