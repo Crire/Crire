@@ -22,6 +22,7 @@ Currently pursuing my Computer Science Degree, in the 5th semester and looking f
 development job experiences.
 </h4>
 
+<br/>
 <h3 align="center">
 Personal Information
 </h3>
@@ -31,7 +32,6 @@ Personal Information
   - For the sake of taking care of my body and having fun, i love to go the gym from monday to friday, while practicing my jiu-jitsu sometimes during the week
 </p>
 
-<br/>
 <br/>
 <h3 align="center">
 Professional experience
@@ -73,14 +73,13 @@ and ESG (Environmental, Social, Governance) firm, Enva.
 <h3 align="center">
   Sobre mim  🖐
 </h3>
-
-
 <h4 align="center">
  Sou um Programador e Game Designer com experiência em desenvolvimento de jogos, e já atuei
   como professor e como desenvolvedor. Além disso, trabalhei no desenvolvimento
   de back-end de diversas APIs. Atualmente, estou no 5º período de Ciência da Computação
   e estou em busca de oportunidades na área de desenvolvimento de jogos.
 </h4>
+<br/>
 <h3 align="center">
 Informação pessoal
 </h3>
@@ -90,7 +89,6 @@ Informação pessoal
   - Como forma de cuidar do meu corpo e me divertir, eu amo ir para a academia de segunda a sexta, enquanto pratico meu jiu-jitsu algumas vezes durante a semana
 </p>
 
-<br/>
 <br/>
 <h3 align="center">
 Experiência profissional
