@@ -29,6 +29,8 @@ Personal Information
 
 <p>
   - I enjoy reading and playing videogames as a hobby
+
+  
   - For the sake of taking care of my body and having fun, i love to go the gym from monday to friday, while practicing my jiu-jitsu sometimes during the week
 </p>
 
