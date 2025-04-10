@@ -86,7 +86,10 @@ and ESG (Environmental, Social, Governance) firm, Enva.
 Informação pessoal
 </h3>
 
+
 <p>
+   
+  
   - Eu gosto de ler e jogar videogames como hobby
   - Como forma de cuidar do meu corpo e me divertir, eu amo ir para a academia de segunda a sexta, enquanto pratico meu jiu-jitsu algumas vezes durante a semana
 </p>
