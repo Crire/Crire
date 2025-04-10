@@ -81,6 +81,6 @@ and ESG (Environmental, Social, Governance) firm, Enva.
   <br>
  <img src="https://easydraweverything.com/wp-content/uploads/2024/06/cute-capybara-drawing-8.jpg" alt="Eric Freitas Avelino" width="200" style="width:200px; border-radius: 50%">
   <br>
- Feel free to reach out to me!
+ Feel free to reach out to me! || Sinta-se livre para entrar em contato!
   <br>
 </h1>
