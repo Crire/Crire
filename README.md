@@ -12,8 +12,6 @@
   About me  🖐
 </h3>
 
-<br/>
-<br/>
 
 <h4 align="center">
  I’m a Programmer and Game Designer who have experience working in game development
@@ -22,12 +20,12 @@ Currently pursuing my Computer Science Degree, in the 5th semester and looking f
 development job experiences.
 </h4>
 
+<br/>
+<br/>
 <h3 align="center">
 Professional Information
 </h3>
 
-<br/>
-<br/>
 <h4>
 
   - Back-end Trainee Developer(December 2024 - March 2025): Worked for the technology
@@ -51,4 +49,6 @@ program with a scoring system.
   - Web Developer(August 2023 - September 2023): Created the website for the consulting
 and ESG (Environmental, Social, Governance) firm, Enva.
 </h4>
+<br/>
+<br/>
 
