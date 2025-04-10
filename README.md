@@ -15,14 +15,21 @@
 <h3 align="center">
   About me  🖐
 </h3>
-
-
 <h4 align="center">
  I’m a Programmer and Game Designer who have experience working in game development
 as both teacher and developer. Also, I've worked in back-end development of multiple APIs.
 Currently pursuing my Computer Science Degree, in the 5th semester and looking for game
 development job experiences.
 </h4>
+
+<h3 align="center">
+Personal Information
+</h3>
+
+<p>
+  - I enjoy reading and playing videogames as a hobby
+  - For the sake of taking care of my body and having fun, i love to go the gym from monday to friday, while practicing my jiu-jitsu sometimes during the week
+</p>
 
 <br/>
 <br/>
@@ -74,6 +81,15 @@ and ESG (Environmental, Social, Governance) firm, Enva.
   de back-end de diversas APIs. Atualmente, estou no 5º período de Ciência da Computação
   e estou em busca de oportunidades na área de desenvolvimento de jogos.
 </h4>
+<h3 align="center">
+Informação pessoal
+</h3>
+
+<p>
+  - Eu gosto de ler e jogar videogames como hobby
+  - Como forma de cuidar do meu corpo e me divertir, eu amo ir para a academia de segunda a sexta, enquanto pratico meu jiu-jitsu algumas vezes durante a semana
+</p>
+
 <br/>
 <br/>
 <h3 align="center">
