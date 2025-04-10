@@ -132,7 +132,7 @@ Experiência profissional
       display: flex;
       flex-direction: row;
       align-items: center;
-      aign: center;
+      align: center;
       justify-content: center;
       height: 100vh;">
   <a href="ericfravelino@gmail.com" style="color: #D44638;  font-size: 18px;
