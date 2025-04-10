@@ -26,10 +26,9 @@ development job experiences.
 <h3 align="center">
 Personal Information
 </h3>
+<br>
 <h1 align="center">
-  <br>
- <img src="https://ih1.redbubble.net/image.4612471986.0372/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" alt="Capybara" width="100" style="width:100px; border-radius: 50%">
-  <br>
+ <img src="https://ih1.redbubble.net/image.4612471986.0372/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" alt="Capybara" width="150" style="width:150px; border-radius: 50%">
 </h1>
 <p>
    
@@ -92,10 +91,9 @@ and ESG (Environmental, Social, Governance) firm, Enva.
 Informação pessoal
 </h3>
 <h1 align="center">
-  <br>
- <img src="https://ih1.redbubble.net/image.4612471986.0372/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" alt="Capybara" width="100" style="width:100px; border-radius: 50%">
-  <br>
+ <img src="https://ih1.redbubble.net/image.4612471986.0372/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" alt="Capybara" width="150" style="width:150px; border-radius: 50%">
 </h1>
+<br>
 <p>
    
   
