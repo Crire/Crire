@@ -27,7 +27,7 @@ development job experiences.
 <br/>
 <br/>
 <h3 align="center">
-Professional Information
+Professional experience
 </h3>
 
 <p>
@@ -76,7 +76,9 @@ and ESG (Environmental, Social, Governance) firm, Enva.
 </h4>
 <br/>
 <br/>
-
+<h3 align="center">
+Experiência profissional
+</h3>
 <p>
 
   - Desenvolvedor back-end trainee(dezembro de 2024 - março de 2025): Trabalhei para a empresa de soluções de tecnologia 'Compass UOL' na refatoração, otimização e manutenção de vários microsserviços usando aplicações com Java Spring Boot RestFul APIs para um sistema jurídico automatizado, onde fornecemos serviços para outra empresa chamada 'VIVO' em uma base terceirizada
