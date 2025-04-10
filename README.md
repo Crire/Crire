@@ -1,30 +1,3 @@
-<style>
-    .contact-container {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      height: 100vh; /* Ocupa 100% da altura da viewport */
-    }
-    .contact-link {
-      text-decoration: none;
-      font-size: 18px;
-      margin: 10px 0;
-    }
-    
-    .email-link {
-      color: #D44638; 
-    }
-    .linkedin-link {
-      color: #0077B5; 
-    }
-    .phone-link {
-      color: #34A853;
-    }
-    .contact-link:hover {
-      opacity: 0.7;
-    }
-  </style>
 <h1 align="center">
   <br>
  <a href="https://github.com/Crire/"><img src="avatar.jpeg" alt="Eric Freitas Avelino" width="200" style="width:200px; border-radius: 50%"></a>
@@ -154,8 +127,17 @@ Experiência profissional
  Feel free to reach out to me! || Sinta-se livre para entrar em contato!
   <br>
 </h1>
-<div class="contact-container">
-  <a href="ericfravelino@gmail.com" class="contact-link email-link">ericfravelino@gmail.com</a>
-  <a href="https://www.linkedin.com/in/eric-freitas-avelino-3946b2261/" class="contact-link linkedin-link" target="_blank">LinkedIn</a>
-  <a href="tel:+5592993653932" class="contact-link phone-link">+55 92 99365-3932</a>
+
+<div style="
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;">
+  <a href="ericfravelino@gmail.com" style="color: #D44638;  font-size: 18px;
+      margin: 10px 0; ">ericfravelino@gmail.com</a>
+  <a href="https://www.linkedin.com/in/eric-freitas-avelino-3946b2261/" target="_blank" style="color: #0077B5;  font-size: 18px;
+      margin: 10px 0;">LinkedIn</a>
+  <a href="tel:+5592993653932" style="color: #34A853;  font-size: 18px;
+      margin: 10px 0;">+55 92 99365-3932</a>
 </div>
