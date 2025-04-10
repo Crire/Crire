@@ -135,7 +135,7 @@ Experiência profissional
       align: center;
       justify-content: center;
       height: 100vh;">
-  <a href="ericfravelino@gmail.com" style="color: #D44638;  font-size: 18px;
+  <a href="ericfravelino@gmail.com" style="color: #D44638; align: center; font-size: 18px;
       margin: 10px 0; ">ericfravelino@gmail.com</a>
   <a href="https://www.linkedin.com/in/eric-freitas-avelino-3946b2261/" target="_blank" style="color: #0077B5;  font-size: 18px;
       margin: 10px 0;">LinkedIn</a>
