@@ -9,7 +9,7 @@
   <a href="#english">English</a> •
   <a href="#português">Português</a>
 </p>
-<
+
 ## English
 
 <h3 align="center">
