@@ -1,6 +1,12 @@
 ## Hi there 👋
   <a href="https://github.com/Crire/"><img src="avatar.jpeg" alt="Eric Freitas Avelino" width="200" style="width:200px; border-radius: 50%"></a>
-
+<h1 align="center">
+  <br>
+ <a href="https://github.com/Crire/"><img src="avatar.jpeg" alt="Eric Freitas Avelino" width="200" style="width:200px; border-radius: 50%"></a>
+  <br>
+  Daniel Pádua
+  <br>
+</h1>
 <!--
 **Crire/Crire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
