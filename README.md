@@ -23,9 +23,11 @@ development job experiences.
 </h4>
 
 <h3 align="center">
-  PROFESSIONAL INFORMATION
+Professional Information
 </h3>
 
+<br/>
+<br/>
 <h4>
 
   - Back-end Trainee Developer(December 2024 - March 2025): Worked for the technology
