@@ -128,16 +128,14 @@ Experiência profissional
   <br>
 </h1>
 
-<h4 align="center">
+<h3 align="center">
 <a href="ericfravelino@gmail.com" style=" font-size: 18px;">ericfravelino@gmail.com</a>  <br>
-</h4>
-<br>
-<h4 align="center">
+</h3>
+<h3 align="center">
 <a href="https://www.linkedin.com/in/eric-freitas-avelino-3946b2261/" target="_blank" style="font-size: 18px;">LinkedIn</a> 
-</h4>
-<br>
-<h4 align="center">
+</h3>
+<h3 align="center">
 <a href="tel:+5592993653932" style="font-size: 18px;">+55 92 99365-3932</a>
-</h4>
+</h3>
 
 
