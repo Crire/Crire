@@ -26,12 +26,17 @@ development job experiences.
 <h3 align="center">
 Personal Information
 </h3>
-
-<img src="https://ih1.redbubble.net/image.4612471986.0372/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" alt="Capybara" width="100" style="width:100px; border-radius: 50%" align="center">
+<h1 align="center">
+  <br>
+ <img src="https://ih1.redbubble.net/image.4612471986.0372/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" alt="Capybara" width="100" style="width:100px; border-radius: 50%">
+  <br>
+  My favorite animal is the Capybara!
+  <br>
+</h1>
 <p>
    
   
-  - My favorite animal is the Capybara!
+  
   - I enjoy reading and playing videogames as a hobby
   - For the sake of taking care of my body and having fun, i love to go the gym from monday to friday, while practicing my jiu-jitsu sometimes during the week
 </p>
@@ -87,12 +92,16 @@ and ESG (Environmental, Social, Governance) firm, Enva.
 <h3 align="center">
 Informação pessoal
 </h3>
-
-<img src="https://ih1.redbubble.net/image.4612471986.0372/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" alt="Capybara" width="100" style="width:100px; border-radius: 50%" align="center">
+<h1 align="center">
+  <br>
+ <img src="https://ih1.redbubble.net/image.4612471986.0372/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" alt="Capybara" width="100" style="width:100px; border-radius: 50%">
+  <br>
+  Meu animal favorito é a Capivara!
+  <br>
+</h1>
 <p>
    
   
-  - Meu animal favorito é a capivara!
   - Eu gosto de ler e jogar videogames como hobyy
   - Como forma de cuidar do meu corpo e me divertir, eu amo ir para a academia de segunda a sexta, enquanto pratico meu jiu-jitsu algumas vezes durante a semana
 </p>
