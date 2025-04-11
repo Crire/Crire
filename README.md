@@ -155,7 +155,7 @@ Exposições de jogos
 </h3>
 
 <h1 align="center">
- <img src="apresentacoes.PNG" alt="Exposicoes de jogos" width="150" style="width:150px; border-radius: 50%">
+ <img src="apresentacoes.PNG" alt="Exposicoes de jogos" width="350" style="width:150px; border-radius: 50%">
 </h1>
 <p>
   2024 foi um ano repleto de eventos empolgantes. Tive o privilégio
@@ -172,7 +172,7 @@ Aulas de desenvolvimento de jogos
 </h3>
 
 <h1 align="center">
- <img src="aula.PNG" alt="Aula de desenvolvimento de jogos para criancas" width="150" style="width:150px; border-radius: 50%">
+ <img src="aula.PNG" alt="Aula de desenvolvimento de jogos para criancas" width="350" style="width:150px; border-radius: 50%">
 </h1>
 <p>
   Durante o final de 2024 e começo de 2025, tive a oportunidade de trabalhar
