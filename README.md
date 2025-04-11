@@ -73,6 +73,35 @@ and ESG (Environmental, Social, Governance) firm, Enva.
 
 </p>
 <br/>
+<h3 align="center">
+Game Expositions
+</h3>
+
+<h1 align="center">
+ <img src="apresentacoes.png" alt="Game expos" width="150" style="width:150px; border-radius: 50%">
+</h1>
+<p>
+  2024 was a year full of exciting events. I had the privilege of presenting,
+  together with my team at '2Rios Studio', our projects at several game expos,
+  receiving a lot of feedback and community engagement. 🙂
+</p>
+
+<br/>
+
+<br/>
+<h3 align="center">
+Game development classes
+</h3>
+
+<h1 align="center">
+ <img src="aula.png" alt="Game development class for children" width="150" style="width:150px; border-radius: 50%">
+</h1>
+<p>
+  During the end of 2024 and beginning of 2025, I had the opportunity
+  to work as a game development teacher remotely. Developing several 3D
+  game projects in practical and theoretical classes for children.
+</p>
+
 <br/>
 
 ## Português
@@ -119,6 +148,39 @@ Experiência profissional
   - Desenvolvedor Web (agosto de 2023 - setembro de 2023): Criei o site para a empresa de consultoria e ESG (Ambiental, Social, Governança), Enva.
 
 </p>
+
+<br/>
+<h3 align="center">
+Exposições de jogos
+</h3>
+
+<h1 align="center">
+ <img src="apresentacoes.png" alt="Exposicoes de jogos" width="150" style="width:150px; border-radius: 50%">
+</h1>
+<p>
+  2024 foi um ano repleto de eventos empolgantes. Tive o privilégio
+  de apresentar junto da minha equipe da '2Rios Studio' os nossos
+  projetos em várias feiras de exposição de jogos, conseguindo bastante 
+  feedback e engajamento da comunidade. 🙂
+</p>
+
+<br/>
+
+<br/>
+<h3 align="center">
+Aulas de desenvolvimento de jogos
+</h3>
+
+<h1 align="center">
+ <img src="aula.png" alt="Aula de desenvolvimento de jogos para criancas" width="150" style="width:150px; border-radius: 50%">
+</h1>
+<p>
+  Durante o final de 2024 e começo de 2025, tive a oportunidade de trabalhar
+  como professor de desenvolvimento de jogos de forma remota. Desenvolvendo
+  diversos projetos de jogos 3D em aulas práticas e teóricas para o público infantil.
+</p>
+
+<br/>
 
 <h1 align="center">
   <br>
