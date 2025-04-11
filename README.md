@@ -78,7 +78,7 @@ Game Expositions
 </h3>
 
 <h1 align="center">
- <img src="apresentacoes.PNG" alt="Game expos" width="500" style="width:150px; border-radius: 50%">
+ <img src="apresentacoes.PNG" alt="Game expos" width="200" style="width:400px; border-radius: 50%">
 </h1>
 <p>
   2024 was a year full of exciting events. I had the privilege of presenting,
@@ -94,7 +94,7 @@ Game development classes
 </h3>
 
 <h1 align="center">
- <img src="aula.PNG" alt="Game development class for children" width="500" style="width:150px; border-radius: 50%">
+ <img src="aula.PNG" alt="Game development class for children" width="200" style="width:400px; border-radius: 50%">
 </h1>
 <p>
   During the end of 2024 and beginning of 2025, I had the opportunity
@@ -155,7 +155,7 @@ Exposições de jogos
 </h3>
 
 <h1 align="center">
- <img src="apresentacoes.PNG" alt="Exposicoes de jogos" width="350" style="width:150px; border-radius: 50%">
+ <img src="apresentacoes.PNG" alt="Exposicoes de jogos" width="200" style="width:400px; border-radius: 50%">
 </h1>
 <p>
   2024 foi um ano repleto de eventos empolgantes. Tive o privilégio
@@ -172,7 +172,7 @@ Aulas de desenvolvimento de jogos
 </h3>
 
 <h1 align="center">
- <img src="aula.PNG" alt="Aula de desenvolvimento de jogos para criancas" width="350" style="width:150px; border-radius: 50%">
+ <img src="aula.PNG" alt="Aula de desenvolvimento de jogos para criancas" width="200" style="width:400px; border-radius: 50%">
 </h1>
 <p>
   Durante o final de 2024 e começo de 2025, tive a oportunidade de trabalhar
