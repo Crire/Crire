@@ -10,7 +10,8 @@
   <a href="#português">Português</a>
 </p>
 <h3 align="center">
- <a href="#Contato/Contact">Contato/Contact</a></h3>
+ <a href="#Contato">Contact - Contact</a>
+</h3>
 
  
 ## English
