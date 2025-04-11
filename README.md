@@ -7,7 +7,8 @@
 </h1>
 <p align="center">
   <a href="#english">English</a> •
-  <a href="#português">Português</a>
+  <a href="#português">Português</a> •
+  <a href="#Contato/Contact">Contato/Contact</a>
 </p>
 
 ## English
@@ -200,4 +201,5 @@ Aulas de desenvolvimento de jogos
 <a href="tel:+5592993653932" style="font-size: 18px;">+55 92 99365-3932</a>
 </h3>
 
+## Contato/Contact
 
