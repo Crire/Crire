@@ -78,7 +78,7 @@ Game Expositions
 </h3>
 
 <h1 align="center">
- <img src="apresentacoes.PNG" alt="Game expos" width="150" style="width:150px; border-radius: 50%">
+ <img src="apresentacoes.PNG" alt="Game expos" width="500" style="width:150px; border-radius: 50%">
 </h1>
 <p>
   2024 was a year full of exciting events. I had the privilege of presenting,
@@ -94,7 +94,7 @@ Game development classes
 </h3>
 
 <h1 align="center">
- <img src="aula.PNG" alt="Game development class for children" width="150" style="width:150px; border-radius: 50%">
+ <img src="aula.PNG" alt="Game development class for children" width="500" style="width:150px; border-radius: 50%">
 </h1>
 <p>
   During the end of 2024 and beginning of 2025, I had the opportunity
